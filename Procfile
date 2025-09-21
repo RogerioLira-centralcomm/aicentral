@@ -1,1 +1,1 @@
-main:app --bind 0.0.0.0:8000
+main:app --bind 212.85.13.233:8000
